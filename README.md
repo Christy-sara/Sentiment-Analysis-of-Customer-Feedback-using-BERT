@@ -1,5 +1,7 @@
 # Sentiment Analysis of Customer Feedback
 
+This project uses **machine learning and natural language processing (NLP)** to analyze customer feedback and determine sentiment (positive, negative, or neutral). A **BERT (Bidirectional Encoder Representations from Transformers)** model is implemented to accurately classify the sentiments from textual feedback.
+
 **Dataset:** Customer feedback data collected from reviews, surveys, or social media, containing textual comments and sentiment labels.
 Dataset link from Kaggle: https://www.kaggle.com/datasets/simaanjali/emotion-analysis-based-on-text/data
 
