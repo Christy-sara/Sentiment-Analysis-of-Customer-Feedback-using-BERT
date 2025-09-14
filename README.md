@@ -11,3 +11,6 @@ Dataset link from Kaggle: https://www.kaggle.com/datasets/simaanjali/emotion-ana
 - Evaluation of model performance using metrics like accuracy, F1-score, and confusion matrix
 - Insights into customer opinions and satisfaction trends
 
+## Files
+- `Sentiment Analysis of Customer Feedback.ipynb` → Jupyter Notebook with code + explanations
+- `Sentiment Analysis of Customer Feedback.html` → HTML version (for quick preview without Jupyter)
