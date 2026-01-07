@@ -1,15 +1,26 @@
-# Sentiment Analysis of Customer Feedback
+# Sentiment Analysis of Customer Feedback using BERT
+A natural language processing (NLP) project that classifies customer feedback into sentiment categories
+using the BERT transformer model for improved accuracy.
 
-This project uses **machine learning and natural language processing (NLP)** to analyze customer feedback and determine sentiment (positive, negative, or neutral). A **BERT (Bidirectional Encoder Representations from Transformers)** model is implemented to accurately classify the sentiments from textual feedback.
+## What I Did
+- Performed text preprocessing and feature extraction
+- Built and fine-tuned a BERT classification model
+- Evaluated model performance with metrics like accuracy and F1
 
-**Dataset:** Customer feedback data collected from reviews, surveys, or social media, containing textual comments and sentiment labels.
-Dataset link from Kaggle: https://www.kaggle.com/datasets/simaanjali/emotion-analysis-based-on-text/data
+## Tools & Technologies
+- Python
+- Hugging Face Transformers (BERT)
+- TensorFlow / PyTorch
+- Pandas, NumPy
+- Scikit-learn
 
-**Key Features:**
-- Text preprocessing: cleaning and tokenization
-- Implementation of **BERT** for sentiment classification
-- Evaluation of model performance using metrics like accuracy, F1-score, and confusion matrix
-- Insights into customer opinions and satisfaction trends
+## Key Insights
+- BERT achieved significantly higher accuracy than traditional methods
+- Text preprocessing (tokenization, lowercasing) improved model stability
+
+This project highlights hands-on experience in NLP, transformer models,
+and practical model evaluation.
+
 
 ## Files
 - `Sentiment Analysis of Customer Feedback.ipynb` → Jupyter Notebook with code + explanations
